@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "145133546045",
+    "project_id": "dalili-commerce",
+    "storage_bucket": "dalili-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145133546045:android:7df1ba4f94b2ec2bb79854",
+        "android_client_info": {
+          "package_name": "com.dalili.dalili_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145133546045-mt6jvg9gve7e55hoig4mmvhkv9sa18gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalili.dalili_frontend",
+            "certificate_hash": "037de3a38ce68b3da77d27feeb981cb936fd130b"
+          }
+        },
+        {
+          "client_id": "145133546045-k8veje19d6tu8fmgbf8sb1nl166p5pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST9PZnRe1ExkyEuT4DPgN7SY0f3XmEHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145133546045-akqsg8i7anerhnedbka134m9orrlge7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145133546045-4be7l3ptgbce8rfhdsnpebjn7f3gksc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterfireGoogleSignIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145133546045:android:e9d0611515f46d5eb79854",
+        "android_client_info": {
+          "package_name": "com.example.flutterfire_google_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145133546045-k8veje19d6tu8fmgbf8sb1nl166p5pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST9PZnRe1ExkyEuT4DPgN7SY0f3XmEHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145133546045-akqsg8i7anerhnedbka134m9orrlge7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145133546045-4be7l3ptgbce8rfhdsnpebjn7f3gksc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterfireGoogleSignIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145133546045:android:e76f28e6932920cab79854",
+        "android_client_info": {
+          "package_name": "com.hk8522.flutterfire_google_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145133546045-h483g08u367u5aob2ip2c705vf2g1i62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hk8522.flutterfire_google_sign_in",
+            "certificate_hash": "037de3a38ce68b3da77d27feeb981cb936fd130b"
+          }
+        },
+        {
+          "client_id": "145133546045-k8veje19d6tu8fmgbf8sb1nl166p5pm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDST9PZnRe1ExkyEuT4DPgN7SY0f3XmEHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145133546045-akqsg8i7anerhnedbka134m9orrlge7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145133546045-4be7l3ptgbce8rfhdsnpebjn7f3gksc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterfireGoogleSignIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

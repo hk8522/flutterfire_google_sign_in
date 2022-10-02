@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>145133546045-4be7l3ptgbce8rfhdsnpebjn7f3gksc8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.145133546045-4be7l3ptgbce8rfhdsnpebjn7f3gksc8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>145133546045-h483g08u367u5aob2ip2c705vf2g1i62.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDRuoWYPL2VKabArWFXJtYreimzQrIPUFY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>145133546045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterfireGoogleSignIn</string>
+	<key>PROJECT_ID</key>
+	<string>dalili-commerce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dalili-commerce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:145133546045:ios:0a328a946e8f6231b79854</string>
+</dict>
+</plist>
