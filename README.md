@@ -7,11 +7,11 @@ This is a sample app demonstrating **Firebase Authentication** in Flutter using 
 
 > **NOTE:** This sample app uses the latest **Flutter 2.0 stable release**, with *null safety* enabled. Make sure you are using Flutter 2 in order to prevent any build errors. Tested on Android, iOS & Web.
 
-![](https://github.com/sbis04/flutterfire-samples/raw/google-sign-in/screenshots/flutter_fire_authentication_google_cover.png)
+![](https://github.com/hk8522/flutterfire_google_sign_in/blob/main/screenshots/flutter_fire_authentication_google_cover.png)
 
 App in action :rocket: :
 
-![](https://github.com/sbis04/flutterfire-samples/raw/google-sign-in/screenshots/flutterfire_auth_google.gif)
+![](https://github.com/hk8522/flutterfire_google_sign_in/blob/main/screenshots/flutterfire_auth_google.gif)
 
 ## Plugins
 
